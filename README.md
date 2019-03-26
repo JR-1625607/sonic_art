@@ -1,8 +1,12 @@
 # sonic_art
 1625607
+
 **Week 11 – 8th April**
+
 **Week 10 - 1st April**
+
 **Week 9 - 25th March**
+
 **Week 8 - 18th March**
 
 This week has been comprised of planning my main act for my soundscape as i still havnt fully figured out what i want it to sound like yet. I have also been focusing on the layout and content of this logbook and github page. I have used the simple page layout provided to us by Krisztian as i want to ficus my time on creating my soundscape, however i would like the page to be asthetocally pleasing. 
