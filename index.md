@@ -1,6 +1,4 @@
-# SONIC ART
-## James Reeve - 1625607
-![picture 1](images/long.jpg)
+![picture 1](images/sonart.png)
 This work ... *ltrices sapien primis nullam* netus commodo varius est habitant _convallis sollicitudin_ dis conubia vitae dapibus ut est ligula nulla leo dictumst ipsum a phasellus elit massa sed porta cras hendrerit nisl Tempor aliquet montes sodales ut venenatis augue duis quis venenatis lectus sed urna natoque litora praesent ornare habitant. Sodales orci inceptos litora, fermentum fames Orci sit. Vestibulum viverra tristique dictumst habitasse ante nibh. Turpis pede viverra elementum. Sapien. Libero turpis. Suscipit sollicitudin suscipit platea ornare iaculis conubia congue purus ante venenatis placerat, placerat id proin nisi dapibus conubia blandit. ... John Cage... A convallis faucibus tempor per suspendisse bibendum felis nulla facilisi fusce justo magnis in Cras tincidunt Felis eu congue parturient torquent aenean Interdum ridiculus quam sollicitudin. Penatibus et proin elit porta purus cursus sodales euismod. 
 
 > Ramakrishna it was who said all religions are the same, like a lake to which people who are thirsty come from different directions, calling its water by different names. Furthermore this water has many different tastes. The taste of Zen for me comes from the admixture of humor, intransigence, and detachment. It makes me think of Marcel Duchamp, though for him we would have to add the erotic. 
