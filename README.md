@@ -4,11 +4,19 @@
 **Week 10 - 1st April**
 **Week 9 - 25th March**
 **Week 8 - 18th March**
+
+This week has been comprised of planning my main act for my soundscape as i still havnt fully figured out what i want it to sound like yet. I have also been focusing on the layout and content of this logbook and github page. I have used the simple page layout provided to us by Krisztian as i want to ficus my time on creating my soundscape, however i would like the page to be asthetocally pleasing. 
+
 **Week 7 - 11th March**
+
+This week I started to create the first act of the soundscape, the come-up. I wanted this part to represent the optimistic happy feeling you have when the day moves closer to the evening and closer to you heading out into town. I used bright synths and a cheerful electric piano sound to convey this. These sounds are backed by the busy sound of traffic and the hustle and bustle of city life, as the act moves on the sounds get louder as if you are walking towards the party to start the night, known as pre-drinks. The sound is suddenly interrupted by a phonecall from a friend asking if youre on your way, the listener removes their headphones to answer the call, and soon the music resumes its cheery sound. I am trying to plan the main act, the plataue and hop to have something created for next week. 
+
 **Week 6 – 4th March**
+
 This week I have been chopping up the samples I captured at the party in the previous week and placing them in logic. I have begun to add the base sounds to accompany the samples and arranged them at the end of the piece, in the comedown section. This is because I feel the conversations I recorded are the kind of thing you would hear after the club has shut and everyone is making their way to the after party to carry on with the night. The sounds I have added to the interviews are meant to represent the feelings that start to creep up towards the end of the night, when the tiredness sets in the and the comedown starts. These sounds evolve over the course of this act and slowly ebb away at the end into birdsong, a sound that is all too familiar to any late night raver and one that often evokes a small amount of dread. 
 
 **Week 5 – 25th February**
+
 I missed this week’s lecture but continued to work at home on my sonic art piece by creating my 10 keywords and my abstract which can be found below. 
 
 _Abstract:_
