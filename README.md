@@ -20,6 +20,12 @@ Jones, M. 2014. Is Music In Our DNA? [online] Available at: <https://futurism.co
 
 After weeks planning the main part of my soundscape, I have finally composed something I am happy with. I decided to use a sample of an iconic rave stab, a sound that instantly transports you back to that era. This repeating pattern is then overlaid with time-stretched recordings of my friends I took at the party in the previous week. These fade away and then are reintroduced with a sample of Jonny Banger mc-in at his Mega Rave part 3. Jonny is a through and through raver so I wanted to use a sample of him in my project to add a level of authenticity to it. These sounds build up and eventually climax, where the third theme then enters, leading into the comedown interview stage of the work. My soundscape is now almost completed and I have bounced a test version for feedback in class. Keeping with the rave image of the project, I decided to create an image that I would be the background for my YouTube video of my project that I will then later upload to YouTube. I found an image of the classic rave smiley face an uploaded it to illustrator, I then made it a vector using image trace and set the background colour to the classic neon yellow synonymous with raving. With the background now complete I will use it next week for my test YouTube video. 
 
+I have created 3 questions I will send to my friends about my soundscape, in order to use their feedback to improve my work in the future.  
+
+Question 1: What emotions did you feel when listening to the soundscape? 
+Question 1: Do the three induvidual parts, come up, platau and comedown accuratly reflect the emtions of rave they are intending to portray?
+Question 3: What change would you make to the soundscape?
+
 **Week 8 - 18th March**
 
 This week has been comprised of planning my main act for my soundscape as I still haven't fully figured out what I want it to sound like yet. I have also been focusing on the layout and content of this logbook and gather page. I have used the simple page layout provided to us by Krisztian as I want to focus my time on creating my soundscape, however, I would like the page to be aesthetically pleasing. I created a header image on Illustrator using robotic text which I feel compliments my sonic art nicely and inserted it into the page.
