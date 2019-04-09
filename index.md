@@ -9,4 +9,7 @@ Jones, M. 2014. Is Music In Our DNA? [online] Available at: https://futurism.com
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/lYbDWA-n-P8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><center>
 
-<iframe src="https://www.youtube.com/embed/hP36xoPXDnM?rel=0&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe>
+<div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe src="https://www.youtube.com/embed/hP36xoPXDnM?rel=0&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe>
+</div>
