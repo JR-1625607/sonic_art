@@ -3,6 +3,16 @@
 
 **Week 11 – 8th April**
 
+I sent my feeback questions to my friends and have received two repsponses. The overall feedback was postive and they highlighted some issues i hadnt thought about when creating the soundscape,  such as placement of the interviews in the soundascape. 
+
+Feedback 1
+
+Q1: I felt a range of emotions that were mostly positive while I listened, joy, excitement and happiness were the dominant emotions I experienced. The positive emotions only tapered towards the last couple of minutes as I felt discontent and a small amount of sorrow for the soundscape ending.
+
+Q2: All three parts accurately represent the emotions of the race they are trying to portray.
+
+Q3: if I had to make a change to the soundscape it would likely be changing the place of the audio of two ravers speaking to during the come up instead of the come down, because people often talk equally about how excited they are for an event as they do the feelings they felt after the fact.
+
 **Week 10 - 1st April**
 
 I was unable to attend the lecture this week due to illness, However, I have been working on my webpage and have sent it through to Krisztian for feedback. After inserting my header image into my webpage last week I wanted to finish the design aspect of the page this week. To start I entered in my abstract I had previously written into the page, I wasn’t happy with the layout of the text so I used align="center" to center certain parts of my text in order to make them stand out. Once I was happy with the text layout I used iMovie to combine the rough draft of my soundscape with the background image I created last week. I uploaded it and then used YouTube embed function to embed it into my page. I ran into a problem where the YouTube video would align itself to the rough if the page which doesn’t match the centre aligned theme of my page. To fix this I added a (center) at the beginning and end of the iframe, which solved the problem. After receiving feedback via email from the class, I set about to change the issues they had brought up, both in the text and the soundscape. I decided to fix the sound problems first, which were shortening some part and lengthening others and also boosting the voices so they can be heard. I was anticipating there to be some issues with the audio because the version I sent was a rough draft with no audio editing. After this I edited the writing on the page, removing some parts and changing words, such as making some parts past tense. I also added a reference to the statement I made about music being part of our DNA, the reference is an article about experiments with sound and DNA.
@@ -23,7 +33,9 @@ After weeks planning the main part of my soundscape, I have finally composed som
 I have created 3 questions I will send to my friends about my soundscape, in order to use their feedback to improve my work in the future.  
 
 Question 1: What emotions did you feel when listening to the soundscape? 
+
 Question 1: Do the three induvidual parts, come up, platau and comedown accuratly reflect the emtions of rave they are intending to portray?
+
 Question 3: What change would you make to the soundscape?
 
 **Week 8 - 18th March**
