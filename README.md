@@ -7,11 +7,11 @@ I sent my feeback questions to my friends and have received two repsponses. The 
 
 Feedback 1
 
-Q1: I felt a range of emotions that were mostly positive while I listened, joy, excitement and happiness were the dominant emotions I experienced. The positive emotions only tapered towards the last couple of minutes as I felt discontent and a small amount of sorrow for the soundscape ending.
+A1: I felt a range of emotions that were mostly positive while I listened, joy, excitement and happiness were the dominant emotions I experienced. The positive emotions only tapered towards the last couple of minutes as I felt discontent and a small amount of sorrow for the soundscape ending.
 
-Q2: All three parts accurately represent the emotions of the race they are trying to portray.
+A2: All three parts accurately represent the emotions of the rave they are trying to portray.
 
-Q3: if I had to make a change to the soundscape it would likely be changing the place of the audio of two ravers speaking to during the come up instead of the come down, because people often talk equally about how excited they are for an event as they do the feelings they felt after the fact.
+A3: if I had to make a change to the soundscape it would likely be changing the place of the audio of two ravers speaking to during the come up instead of the come down, because people often talk equally about how excited they are for an event as they do the feelings they felt after the fact.
 
 **Week 10 - 1st April**
 
