@@ -3,7 +3,7 @@
 
 **Week 11 – 8th April**
 
-I sent my feeback questions to my friends and have received two repsponses. The overall feedback was postive and they highlighted some issues i hadnt thought about when creating the soundscape,  such as placement of the interviews in the soundascape. 
+I have sent my feedback questions to my friends and have received two responses. The overall feedback was positive and they highlighted some issues I hadn't thought about when creating the soundscape,  such as placement of the interviews in the soundscape. 
 
 Feedback 1
 
@@ -11,11 +11,13 @@ A1: I felt a range of emotions that were mostly positive while I listened, joy, 
 
 A2: All three parts accurately represent the emotions of the rave they are trying to portray.
 
-A3: if I had to make a change to the soundscape it would likely be changing the place of the audio of two ravers speaking to during the come up instead of the come down, because people often talk equally about how excited they are for an event as they do the feelings they felt after the fact.
+A3: If I had to make a change to the soundscape it would likely be changing the place of the audio of two ravers speaking to during the come up instead of the comedown, this is because people often talk equally about how excited they are for an event as they do the feelings they felt after the fact.
+
+After adding my feedback and going over the final checks, my project is finally complete and ready to hand in on Friday. I have enjoyed this project as it has allowed me to explore an area that I love and also expand my knowledge of sonic art, an area I had never previously ventured into. I wouldn't change anything about this project if I had to do it again, apart from potentially rearranging some parts of the soundscape that were pointed out in the feedback. 
 
 **Week 10 - 1st April**
 
-I was unable to attend the lecture this week due to illness, However, I have been working on my webpage and have sent it through to Krisztian for feedback. After inserting my header image into my webpage last week I wanted to finish the design aspect of the page this week. To start I entered in my abstract I had previously written into the page, I wasn’t happy with the layout of the text so I used align="center" to center certain parts of my text in order to make them stand out. Once I was happy with the text layout I used iMovie to combine the rough draft of my soundscape with the background image I created last week. I uploaded it and then used YouTube embed function to embed it into my page. I ran into a problem where the YouTube video would align itself to the rough if the page which doesn’t match the centre aligned theme of my page. To fix this I added a (center) at the beginning and end of the iframe, which solved the problem. After receiving feedback via email from the class, I set about to change the issues they had brought up, both in the text and the soundscape. I decided to fix the sound problems first, which were shortening some part and lengthening others and also boosting the voices so they can be heard. I was anticipating there to be some issues with the audio because the version I sent was a rough draft with no audio editing. After this I edited the writing on the page, removing some parts and changing words, such as making some parts past tense. I also added a reference to the statement I made about music being part of our DNA, the reference is an article about experiments with sound and DNA.
+I was unable to attend the lecture this week due to illness, However, I have been working on my webpage and have sent it through to Krisztian for feedback. After inserting my header image into my webpage last week I wanted to finish the design aspect of the page this week. To start I entered in my abstract I had previously written into the page, I wasn’t happy with the layout of the text so I used align="center" to centre certain parts of my text in order to make them stand out. Once I was happy with the text layout I used iMovie to combine the rough draft of my soundscape with the background image I created last week. I uploaded it and then used YouTube embed function to embed it into my page. I ran into a problem where the YouTube video would align itself to the rough if the page which doesn’t match the centre aligned theme of my page. To fix this I added a (center) at the beginning and end of the iframe, which solved the problem. After receiving feedback via email from the class, I set about to change the issues they had brought up, both in the text and the soundscape. I decided to fix the sound problems first, which were shortening some part and lengthening others and also boosting the voices so they can be heard. I was anticipating there to be some issues with the audio because the version I sent was a rough draft with no audio editing. After this I edited the writing on the page, removing some parts and changing words, such as making some parts past tense. I also added a reference to the statement I made about music being part of our DNA, the reference is an article about experiments with sound and DNA.
 My updated abstract is below: 
   
 *Since the start of human history, we have had music ingrained into our very DNA.<a href="https://futurism.com/is-music-in-our-dna"> It's part of what makes us human.</a> There have been countless changes to what we consider music, and a multitude of genres have evolved with us over the years. We are part of the century that has seen the most technological change to the way we make music, with electricity becoming one of the most popular mediums of sound creation. Concert halls that once played host to orchestras and musicians have fallen out of popularity, replaced by dark clubs full of every form of human expression, where a lone human is responsible for the ebb and flow of the crowd in front of them. Our primal self is still being unleashed to the pulse of music, but in a way that matches the technological progress, we have made. The instruments of old have been replaced by sub-bass, complex synthesizers and mechanically relentless drum machines that lay a beat with precision no drummer could attain.<p>
@@ -32,7 +34,7 @@ I have created 3 questions I will send to my friends about my soundscape, in ord
 
 Question 1: What emotions did you feel when listening to the soundscape? 
 
-Question 1: Do the three induvidual parts, come up, platau and comedown accuratly reflect the emtions of rave they are intending to portray?
+Question 1: Do the three individual parts, come up, plateau and comedown accurately reflect the emotions of rave they are intending to portray?
 
 Question 3: What change would you make to the soundscape?
 
@@ -77,7 +79,7 @@ The weekend before I had been to a party with my friends and I had taken along a
 
 **Week 3 – 11th February**
 
-This week in class we discussed what sonic art actually is. The question is hard to answer, but it got me thinking about what I wanted to do for my project. I have decided to create a soundscape detailing a typical night of raving, from beginning to the end and using sound and recordings to evoke emotions you would usually feel over the course of a night out. I plan on using field recordings taken from around Norwich and from parties with my friends, to create an emotion-evoking soundscape that will comprise of three parts: come up, plateau and comedown. The project will continue to evolve over the next weeks. 
+This week in class we discussed what sonic art actually is. The question is hard to answer, but it got me thinking about what I wanted to do for my project. I have decided to create a soundscape detailing a typical night of raving, from beginning to the end and using sound and recordings to evoke emotions you would usually feel over the course of a night out. I plan on using field recordings taken from around Norwich and from parties with my friends, to create an emotion-evoking soundscape that will comprise of three parts: come up, plateau and come down. The project will continue to evolve over the next weeks. 
 
 **Week 2 – 4th February**
 
