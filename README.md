@@ -90,7 +90,7 @@ Raving, Ecstasy, Peace, Love, Unity, Respect, Comedown, Soundscape, Field-Record
 
 **Week 4 – 18th February**
 
-The weekend before I went to a party with my friends and I took along a portable recorder I had borrowed from the university media office. Over the course of the night, I took several recordings of natural party ambience one might hear at any party, as well as several interviews with friends about what they love about going out raving. I got several good interviews and samples, and have begun editing the samples in a logic file for use in my soundscape. I found it difficult to capture these recordings because people began to act differently when I had the portable recorder out as if they were now aware of what they were saying and doing. Some of my friends were very cooperative and I captured some amazing samples of what you might hear at a party.  
+I went to a party with my friends this weekend and I took along a portable recorder I had borrowed from the university media office. Over the course of the night, I took several recordings of natural party ambience one might hear at any party, as well as several interviews with friends about what they love about going out raving. I got several good interviews and samples, and have begun editing the samples in a logic file for use in my soundscape. I found it difficult to capture these recordings because people began to act differently when I had the portable recorder out as if they were now aware of what they were saying and doing. Some of my friends were very cooperative and I captured some amazing samples of what you might hear at a party.  
 
 **Week 3 – 11th February**
 
