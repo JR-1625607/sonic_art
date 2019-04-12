@@ -15,19 +15,19 @@ A3: If I had to make a change to the soundscape it would likely be changing the 
 
 Feedback 2:
 
-Q1: Definitely felt like that buzz you get before a night out/when it's happening. 
+A1: Definitely felt like that buzz you get before a night out/when it's happening. 
 
-Q2: Thought the parts accurately reflected what they were trying to symbolise, I can imagine coming down and seeing the light start to come up on the last bit.  
+A2: Thought the parts accurately reflected what they were trying to symbolise, I can imagine coming down and seeing the light start to come up on the last bit.  
 
-Q3: I would possibly add more energy as the come up progresses? 
+A3: I would possibly add more energy as the come up progresses? 
 
 Feedback 3:
 
-Q1: Latent energy and introspection throughout the intro, into a sort of dizzy euphoria which is followed by an alienating feeling when the reverb/discordant part starts. This is then interspersed by the calm and more hopeful emotions but doesn’t return to the earlier peak.
+A1: Latent energy and introspection throughout the intro, into a sort of dizzy euphoria which is followed by an alienating feeling when the reverb/discordant part starts. This is then interspersed by the calm and more hopeful emotions but doesn’t return to the earlier peak.
 
-Q2: The come up is accurate with sort of a restrained feeling that then breaks through to portray the plateau of a drug-like experience. Sound is expertly used to create and separate each section, the tone changes especially during the ‘comedown’ phase which is at times unsettling.
+A2: The come up is accurate with sort of a restrained feeling that then breaks through to portray the plateau of a drug-like experience. Sound is expertly used to create and separate each section, the tone changes especially during the ‘comedown’ phase which is at times unsettling.
 
-Q3: You could’ve inserted more negative energy into the comedown section like an odd key or something to show the anxiety people often feel during this time. However, I like the use of real sounds like the motor and the phone ringing, which grounds the soundscape into a visceral feeling.
+A3: You could’ve inserted more negative energy into the comedown section like an odd key or something to show the anxiety people often feel during this time. However, I like the use of real sounds like the motor and the phone ringing, which grounds the soundscape into a visceral feeling.
 
 After adding my feedback and going over the final checks, my project is finally complete and ready to hand in on Friday. I have enjoyed this project as it has allowed me to explore an area that I love and also expand my knowledge of sonic art, an area I had never previously ventured into. I wouldn't change anything about this project if I had to do it again, apart from potentially rearranging some parts of the soundscape noted in the feedback.
 
