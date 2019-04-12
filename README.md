@@ -50,7 +50,7 @@ I have created 3 questions I will send to my friends about my soundscape, in ord
 
 Question 1: What emotions did you feel when listening to the soundscape? 
 
-Question 1: Do the three individual parts, come up, plateau and comedown accurately reflect the emotions of rave they are intending to portray?
+Question 2: Do the three individual parts, come up, plateau and comedown accurately reflect the emotions of rave they are intending to portray?
 
 Question 3: What change would you make to the soundscape?
 
